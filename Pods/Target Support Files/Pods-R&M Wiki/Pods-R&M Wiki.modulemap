@@ -1,0 +1,6 @@
+framework module Pods_R_M_Wiki {
+  umbrella header "Pods-R&M Wiki-umbrella.h"
+
+  export *
+  module * { export * }
+}

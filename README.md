@@ -1,4 +1,4 @@
-# Rick-MortyiOS
+# Rick & Morty Wiki
 
 
 Wiki iOS app for Rick & Morty. 
